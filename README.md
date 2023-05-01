@@ -47,6 +47,3 @@ Contributions to this repository are welcome. If you have a code snippet you wou
 5. Commit your changes (git commit -am 'Add new snippet')
 6. Push to the branch (git push origin new-snippet)
 7. Create a new Pull Request
-
-## License
-This repository is licensed under the MIT License. See LICENSE.txt for more details.
