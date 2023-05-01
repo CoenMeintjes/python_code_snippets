@@ -20,19 +20,19 @@ git clone https://github.com/your_username/python-code-snippets.git
 ## Included Scripts
 This repository contains the following Python code snippets:
 
-**web_crawler.py:** A simple web crawler that can be used to scrape data from websites.
+- **web_crawler.py:** A simple web crawler that can be used to scrape data from websites.
 
-**api_json_sqlite.py:** A script that demonstrates how to interact with a REST API to fetch data in JSON format and store it in a SQLite database.
+- **api_json_sqlite.py:** A script that demonstrates how to interact with a REST API to fetch data in JSON format and store it in a SQLite database.
 
-**json_to_sqlite.py:** A script that shows how to read data from a JSON file and insert it into a SQLite database.
+- **json_to_sqlite.py:** A script that shows how to read data from a JSON file and insert it into a SQLite database.
 
-**parse_html.py:** A script that uses the BeautifulSoup library to parse HTML data and extract specific elements.
+- **parse_html.py:** A script that uses the BeautifulSoup library to parse HTML data and extract specific elements.
 
-**parse_json.py:** A script that demonstrates how to parse JSON data and extract specific information.
+- **parse_json.py:** A script that demonstrates how to parse JSON data and extract specific information.
 
-**parse_xml.py:** A script that shows how to parse XML data and extract specific elements using the ElementTree library.
+- **parse_xml.py:** A script that shows how to parse XML data and extract specific elements using the ElementTree library.
 
-**xml_to_sqlite.py:** A script that reads data from an XML file and inserts it into a SQLite database.
+- **xml_to_sqlite.py:** A script that reads data from an XML file and inserts it into a SQLite database.
 
 ## Usage
 Each script can be run independently by executing it in a Python environment. Before running a script, make sure to install any necessary libraries by running pip install -r requirements.txt.
